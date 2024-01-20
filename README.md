@@ -1,6 +1,6 @@
 # Fitness App made in Java
 
-This Basic Unity shooter is a fun game with some hidden "MLG" twists
+Fitness App with weight tracker, weight graphs, diets info tab, programs info tab, and macros tab
 
 # What I Learned
 
